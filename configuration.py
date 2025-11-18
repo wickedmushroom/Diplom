@@ -1,5 +1,4 @@
-URL_SERVICE = "https://f2ccfe4f-31ed-4e01-ace0-30de7ea516f6.serverhub.praktikum-services.ru"
-
-CREATE_USER_PATH = "/api/v1/users/"
-
-KITS_PATH = "/api/v1/kits/"
+URL_SERVICE ="https://91fd80bf-0ce7-4cd7-9222-6edaf632111b.serverhub.praktikum-services.ru/"
+DOC_PATH = "/docs/"
+CREATE_ORDER_PATH = "/api/v1/orders"
+GET_ORDER_PATH = "/api/v1/orders/track"
